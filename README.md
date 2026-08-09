@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mayuri Jindal 👋
 
-<!--
-**mayurijindal13-afk/mayurijindal13-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in **DSA, Competitive Programming, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Coding Profiles
+
+* 🟠 **CodeChef:** https://www.codechef.com/users/adapt_array_76
+* 🟡 **LeetCode:** https://leetcode.com/u/Mayuri-Jindal/
+
+## 🛠️ Skills
+
+* C++
+* HTML
+* CSS
+* JavaScript
+* Data Structures & Algorithms
+* Git & GitHub
+
+## 🌱 Currently Learning
+
+* DSA in C++
+* Competitive Programming
+* Web Development
+
+---
+
+⭐ Thanks for visiting my profile!
