@@ -17,7 +17,6 @@ I'm a Computer Science Engineering student interested in **DSA, Competitive Prog
 * JavaScript
 * Data Structures & Algorithms
 * Git & GitHub
-LqCRYrzv
 ## 🌱 Currently Learning
 
 * DSA in C++
